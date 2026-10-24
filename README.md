@@ -1,4 +1,8 @@
-#Omnix-Ai
+# Omnix-Ai
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
+
 **AUTONOMOUS · SELF-EXTENDING · LOCAL-FIRST · TERMUX-NATIVE**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -132,7 +136,7 @@ Any Ollama model works. Swap with AGENT_MODEL=llama3.1:8b python omnix_ai.py on 
 3. Clone & run
 
 ```bash
-git clone https://github.com/SYLHETYHACKVENGER/Omnix-Ai.git
+git clone https://github.com/sylhetyhackvenger/Omnix-Ai
 cd Omnix-Ai
 python omnix_ai.py
 ```
