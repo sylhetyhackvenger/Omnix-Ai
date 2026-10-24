@@ -403,8 +403,6 @@ SYLHETYHACKVENGER
 
 aka THE-ERROR808
 
-https://img.shields.io/badge/GitHub-SYLHETYHACKVENGER-181717?style=for-the-badge&logo=github
-
 Omnix-Ai — built in a phone, for the phone, guarded by you.
 
 ```
